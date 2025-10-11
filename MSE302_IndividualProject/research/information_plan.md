@@ -1,47 +1,9 @@
-1. Research Objectives
-
-The goal of this research is to build a clear contextual understanding of how AI can ethically support the mental health of university students. Specifically, this research aims to:
-• Identify the scale and causes of mental-health challenges among Canadian post-secondary students.
-• Assess existing digital mental-health solutions (for example, Wysa, Woebot, ChatGPT).
-• Examine ethical, regulatory, and design limitations of current AI approaches.
-• Synthesize opportunities for improvement focused on student life coaching rather than therapy.
-
-2. Information Needs
-
-To address these objectives, three categories of information were defined:
-
-Category	Description	Expected Outcome
-Student Mental Health Trends	Quantitative and qualitative data on student stress, anxiety, and access to care	Context for defining scope and user pain points
-AI Mental Health Tools	Evidence and performance of chatbot-based and AI-driven support systems	Benchmarking of current capabilities and limitations
-Ethics and Design Gaps	Literature on ethical risks, trust, bias, and data safety in AI	Framework for ensuring responsible design principles
-3. Search Strategy
-
-Databases and repositories: PubMed, Google Scholar, BMC, Frontiers, JMIR, HEQCO, Universities Canada.
-Keywords: “university student mental health Canada,” “AI chatbots therapy,” “ethical AI mental health,” “Woebot Wysa effectiveness,” “AI life coach for students.”
-Selection criteria: published 2017 or later, peer-reviewed or institutional credibility, relevant to post-secondary settings, and directly connected to AI or counselling innovation.
-
-4. Process Summary
-
-Initial scan: identified more than 25 documents across academic and policy databases.
-
-Filtering: evaluated each for relevance, credibility, and geographic or demographic focus.
-
-Final selection: 10 core sources divided into background, AI tools, and ethics categories.
-
-Organization: sources saved in structured folders, summarized in spreadsheets, and linked to the executive summary.
-
-5. Validation and Documentation
-
-Each selected source was cross-checked for publication reliability and factual accuracy.
-Summaries and key insights are recorded in “research/source_summary_table.xlsx.”
-All citations are formatted in APA 7 style in “references/reference_list_APA.md.”
-Raw PDFs are stored in “research/source_pdfs/” for transparency.
-
-6. Connection to Design Process
-
-Findings from this research informed:
-• The “Problem Overview” section (statistical data and causal factors).
-• The “Existing Solutions and Gaps” table (comparative analysis of AI tools).
-• The “Problem Scoping and Future Directions” section (ethical and contextual framing).
-
-This systematic approach demonstrates evidence-based information gathering and analysis, fulfilling MSE 302 Milestone 3 requirements for rigor, transparency, and traceability.
+| **Section**                         | **Content**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1. Research Objectives**          | The goal of this research is to **build a clear contextual understanding of how AI can ethically support the mental health of university students**. <br><br>**Specific Aims:**<br>• Identify the scale and causes of mental-health challenges among Canadian post-secondary students.<br>• Assess existing digital mental-health solutions (e.g., Wysa, Woebot, ChatGPT).<br>• Examine ethical, regulatory, and design limitations of current AI approaches.<br>• Synthesize opportunities for improvement focused on *student life coaching* rather than therapy. |
+| **2. Information Needs**            | **Category — Description — Expected Outcome**<br><br>• **Student Mental Health Trends:** Quantitative and qualitative data on student stress, anxiety, and access to care → *Defines scope and user pain points.*<br>• **AI Mental Health Tools:** Evidence and performance of chatbot-based or AI-driven support systems → *Benchmarks current capabilities and limitations.*<br>• **Ethics and Design Gaps:** Literature on ethical risks, trust, bias, and data safety → *Framework for responsible design principles.*                                          |
+| **3. Search Strategy**              | **Databases:** PubMed, Google Scholar, BMC, Frontiers, JMIR, HEQCO, Universities Canada.<br>**Keywords:** “university student mental health Canada,” “AI chatbots therapy,” “ethical AI mental health,” “Woebot Wysa effectiveness,” “AI life coach for students.”<br>**Selection Criteria:** Published 2017+, peer-reviewed or institutionally credible, relevant to post-secondary contexts, and connected to AI or counselling innovation.                                                                                                                       |
+| **4. Process Summary**              | 1️⃣ *Initial Scan:* Identified over 25 documents across academic and policy sources.<br>2️⃣ *Filtering:* Evaluated each for relevance, credibility, and context.<br>3️⃣ *Final Selection:* 10 core sources divided into background, AI tools, and ethics.<br>4️⃣ *Organization:* Sources saved in structured folders, summarized in spreadsheets, and linked to the executive summary.                                                                                                                                                                              |
+| **5. Validation & Documentation**   | - Each source cross-checked for reliability and factual accuracy.<br>- Summaries and key insights recorded in **`research/source_summary_table.xlsx`**.<br>- Citations formatted in **APA 7** style in **`references/reference_list_APA.md`**.<br>- Raw PDFs stored for transparency in **`research/source_pdfs/`**.                                                                                                                                                                                                                                                |
+| **6. Connection to Design Process** | Findings directly informed:<br>• **Problem Overview:** Statistical and causal data.<br>• **Existing Solutions & Gaps:** Comparative analysis of AI tools.<br>• **Problem Scoping & Future Directions:** Ethical and contextual framing.                                                                                                                                                                                                                                                                                                                             |
+| **7. Outcome**                      | This systematic, evidence-based process ensures **rigor, transparency, and traceability**, fulfilling *MSE 302 Milestone 3* requirements and providing a solid research foundation for ethical, AI-driven student life coaching.                                                                                                                                                                                                                                                                                                                                    |
