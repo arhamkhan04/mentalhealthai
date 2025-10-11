@@ -1,0 +1,64 @@
+# Milestone 3 – GenAI Prompt Record
+# Section: Problem Scoping and Refinement
+# Author: Arham Khan
+# Date: October 2025
+
+---
+
+### Prompt 1 (Initial Ideation)
+"Suggest five possible directions for an individual Management Engineering project related to AI and mental health."
+
+Response Summary:
+- AI-driven campus wellness analytics.
+- AI chatbot for therapy access.
+- Predictive models for counselling demand.
+- Sentiment analysis of student stress online.
+- AI life-coaching for students.
+
+Reflection:
+The list was broad but helped spark the main concept of student-focused AI coaching.
+
+---
+
+### Prompt 2 (Narrowing Focus)
+"I want to focus on something actionable and human-centered. How can I narrow ‘AI and mental health’ to a scope manageable for a single student project?"
+
+Response Summary:
+Suggested narrowing to “AI life-coaching systems for university students” or “AI mental-health triage assistants” as focused, implementable scopes.
+
+Reflection:
+This aligned with course goals emphasizing real-world system improvement.
+
+---
+
+### Prompt 3 (Stakeholder Analysis)
+"Identify the key stakeholders and their relationships in a system that provides AI-based life coaching for students."
+
+Response Summary:
+AI → Students → Counsellors → University Administration → Family/Community.
+Highlighted feedback loops and data-privacy intersections.
+
+Reflection:
+Used to structure the system map later.
+
+---
+
+### Prompt 4 (Problem Validation)
+"List statistics or credible evidence that show the mental-health strain among university students in Canada and the U.S."
+
+Response Summary:
+GenAI cited HEQCO (2024) and Universities Canada data showing 70–75% of students experience mental-health challenges.
+
+Reflection:
+Verified the statistics manually before inclusion.
+
+---
+
+### Prompt 5 (Final Refinement)
+"Rephrase the project scope into a concise academic statement that would fit in a research proposal."
+
+Response Summary:
+“Exploring AI-assisted life coaching for post-secondary students to improve accessibility and contextual relevance of emotional support systems.”
+
+Reflection:
+This became the formal definition in the 2-page report.

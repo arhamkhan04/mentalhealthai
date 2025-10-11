@@ -1,0 +1,59 @@
+# Milestone 3 – GenAI Prompt Record
+# Section: Research Synthesis & Insight Development
+# Author: Arham Khan
+# Date: October 2025
+
+---
+
+### Prompt 1 (Thematic Synthesis)
+"Combine insights from academic studies, policy reports, and news articles to identify why current student mental-health systems are insufficient."
+
+Response Summary:
+Found recurring issues: wait times, stigma, and lack of digital accessibility.
+
+Reflection:
+Used to write the first two paragraphs of the 2-pager (“Problem Overview”).
+
+---
+
+### Prompt 2 (Gap Identification)
+"Based on research about Wysa, Woebot, and ChatGPT, summarize the main gaps that still exist in AI for student mental health."
+
+Response Summary:
+Listed four gaps: context-awareness, crisis-handling, personalization, and ethical design.
+
+Reflection:
+Became bullet points in “Existing Solutions & Gaps.”
+
+---
+
+### Prompt 3 (Solution Framing)
+"Write a short synthesis paragraph describing how an AI life-coach system could complement, not replace, human counselling."
+
+Response Summary:
+Produced language emphasizing hybrid care, ethical safeguards, and scalability.
+
+Reflection:
+Formed the conceptual basis for your project’s design direction.
+
+---
+
+### Prompt 4 (Evidence Integration)
+"Create a concise table mapping research source → key insight → implication for design."
+
+Response Summary:
+Generated a structured table summarizing each study’s takeaway and use.
+
+Reflection:
+Used to create `/references/citation_mapping_table.xlsx`.
+
+---
+
+### Prompt 5 (Iteration Refinement)
+"Rewrite the synthesis paragraph to sound concise but analytical, using academic tone."
+
+Response Summary:
+Produced the final draft language used in your 2-page report conclusion.
+
+Reflection:
+Demonstrated iterative prompt refinement — improved structure while keeping your analysis intact.

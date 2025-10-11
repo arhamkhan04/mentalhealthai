@@ -1,0 +1,70 @@
+# Milestone 3 – GenAI Prompt Record
+# Section: Competitor & Market Analysis
+# Author: Arham Khan
+# Date: October 2025
+
+---
+
+### Prompt 1 (Landscape Overview)
+"Provide a list of the top AI mental-health tools (2017–2024) and summarize their main approach (e.g., CBT, mindfulness, journaling)."
+
+Response Summary:
+Identified Woebot, Wysa, Elomia, Replika, and ChatGPT (used informally).
+
+Reflection:
+Used to form the foundation of the competitor comparison table.
+
+---
+
+### Prompt 2 (Evidence Gathering)
+"Find peer-reviewed studies evaluating the clinical outcomes of Woebot and Wysa."
+
+Response Summary:
+Returned Fitzpatrick et al. (2017) for Woebot and Inkster & Montague (2022) for Wysa.
+
+Reflection:
+Cross-checked DOIs and used summaries for Table 1.
+
+---
+
+### Prompt 3 (Ethical Framing)
+"What are the main ethical concerns with AI chatbots in therapy, according to major researchers?"
+
+Response Summary:
+Summarized themes from Bender et al. (2021) and Stanford HAI (2024): bias, privacy, lack of oversight.
+
+Reflection:
+Integrated directly into the ethics and design section.
+
+---
+
+### Prompt 4 (Practical Comparison)
+"Compare Woebot, Wysa, and Elomia on accessibility, personalization, and ethical safeguards. Create a table."
+
+Response Summary:
+Produced a side-by-side table — later refined into Excel format in `/analysis/competitor_comparison_table.xlsx`.
+
+Reflection:
+Validated factual claims using source websites.
+
+---
+
+### Prompt 5 (Context Fit)
+"Which of these tools is most suitable for university students, and why might they still fall short?"
+
+Response Summary:
+Identified Wysa as closest but too generic; recommended student-context adaptation.
+
+Reflection:
+Confirmed the design direction for your AI life coach concept.
+
+---
+
+### Prompt 6 (Refinement & Verification)
+"Generate potential metrics to evaluate the success of an AI life-coach system for students (e.g., satisfaction, reduction in stress)."
+
+Response Summary:
+Suggested metrics: user satisfaction %, session retention, mood improvement (PHQ-9), and escalation response time.
+
+Reflection:
+Used for evaluation planning and data-mapping ideas.

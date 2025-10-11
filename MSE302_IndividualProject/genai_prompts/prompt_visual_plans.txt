@@ -1,0 +1,13 @@
+# Milestone 3 – GenAI Prompt Record
+# Section: Visualization Planning
+# Author: Arham Khan
+# Date: October 2025
+
+Prompt:
+"What should be included in a system map showing the flow between students, an AI life coach, university counsellors, and family support networks?"
+
+Response Summary:
+Outlined a central AI node linked to students, counsellors, and ethical oversight.
+
+Reflection:
+Used as the foundation for the `system_map.png` visual created in Figma and rendered via GenAI.
