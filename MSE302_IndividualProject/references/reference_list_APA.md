@@ -36,5 +36,6 @@ Reddit. (2023, April 6). What’s the most accurate AI chatbot for mental health
 https://www.reddit.com/r/ArtificialInteligence/comments/12g8f28/whats_the_most_accurate_ai_chat_bot_mental_health/
 Stanford Institute for Human-Centered Artificial Intelligence (HAI). (2024, February 28). Exploring the dangers of AI in mental health care.
 https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care
+
 BitCot Technologies. (2024, July 12). AI chatbots for mental-health support projects.
 https://www.bitcot.com/ai-chatbots-for-mental-health-support-projects/
